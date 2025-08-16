@@ -10,7 +10,7 @@
 
 ## 📑 Checklist Versions
 
-- [📂 Excel version (with colors)](First_checklist_SwagLabs)  
+- [📂 Excel version (with colors)](First_checklist_SwagLabs.xlsx)  
 - [📄 Markdown version](SwagLabs_Checklist.md)  
 - 🖼️ Screenshot preview (from Google Sheets):  
 
